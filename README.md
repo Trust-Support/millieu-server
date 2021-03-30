@@ -1,8 +1,8 @@
-# `create-colyseus-app`
+# 🌳 Milieu (server)
 
 An npm init template for kick starting a Colyseus project in TypeScript.
 
-## :crossed_swords: Usage
+## Usage
 
 ```
 npm init colyseus-app
